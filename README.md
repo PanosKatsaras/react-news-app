@@ -1,6 +1,41 @@
-# React + Vite
+# React + Vite + Bootstrap App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NewsMag App
+A React, Vite, Bootstrap application that fetches news using an API key.
+
+# Getting Started
+
+## Prerequisites:
+
+Node.js and npm (or yarn) installed.
+A News API key.
+Installation:
+
+## Clone the repository:
+
+Bash
+git clone https://github.com/your-username/news-app.git
+Use code with caution.
+
+## Install dependencies:
+
+Bash
+cd news-app
+npm install
+Use code with caution.
+
+Create a .env file at the root of the project and add your API key:
+
+VITE_NEWS_API_KEY=your_api_key
+
+## Development Server:
+
+Bash
+npm run dev
+
+Open http://localhost:5173 to view it in the browser.
+
+A minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
