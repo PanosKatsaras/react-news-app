@@ -1,6 +1,7 @@
 # React + Vite + Bootstrap App
 
-NewsMag App
+### NewsMag App
+
 A React, Vite, Bootstrap application that fetches news using an API key.
 
 # Getting Started
