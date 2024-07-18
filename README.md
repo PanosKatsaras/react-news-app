@@ -14,6 +14,7 @@ A News API key.
 ## Installation:
 
 Clone the repository:
+
 Bash:
 git clone (https://github.com/PanosKatsaras/react-news-app.git)
 
@@ -21,6 +22,7 @@ git clone (https://github.com/PanosKatsaras/react-news-app.git)
 
 Bash:
 cd react-news-app
+
 npm install
 
 Create a .env file at the root of the project and add your API key:
@@ -29,7 +31,7 @@ VITE_NEWS_API_KEY=your_api_key
 
 ## Development Server:
 
-Bash
+Bash:
 npm run dev
 
 Open http://localhost:5173 to view it in the browser.
