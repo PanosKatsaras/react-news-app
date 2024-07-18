@@ -14,12 +14,12 @@ A News API key.
 ## Installation:
 
 Clone the repository:
-Bash
+Bash:
 git clone (https://github.com/PanosKatsaras/react-news-app.git)
 
 ## Install dependencies:
 
-Bash
+Bash:
 cd react-news-app
 npm install
 
