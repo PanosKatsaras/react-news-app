@@ -15,14 +15,12 @@ Installation:
 
 Bash
 git clone (https://github.com/PanosKatsaras/react-news-app.git)
-Use code with caution.
 
 ## Install dependencies:
 
 Bash
-cd news-app
+cd react-news-app
 npm install
-Use code with caution.
 
 Create a .env file at the root of the project and add your API key:
 
