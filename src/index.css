@@ -1,0 +1,10 @@
+nav a {
+    background-color: rgb(160, 30, 30) !important;
+    border-radius: 5px;
+}
+
+.btn-danger {
+    background-color: rgb(160, 30, 30) !important;
+    border: none !important;
+    outline: none !important;
+}
