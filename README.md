@@ -9,6 +9,7 @@ A React, Vite, Bootstrap application that fetches news using an API key.
 ## Prerequisites:
 
 Node.js and npm (or yarn) installed.
+
 A News API key.
 
 ## Installation:
