@@ -10,10 +10,10 @@ A React, Vite, Bootstrap application that fetches news using an API key.
 
 Node.js and npm (or yarn) installed.
 A News API key.
-Installation:
 
-## Clone the repository:
+## Installation:
 
+Clone the repository:
 Bash
 git clone (https://github.com/PanosKatsaras/react-news-app.git)
 
