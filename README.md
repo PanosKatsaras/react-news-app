@@ -14,7 +14,7 @@ Installation:
 ## Clone the repository:
 
 Bash
-git clone [https://github.com/your-username/news-app.git](https://github.com/PanosKatsaras/react-news-app.git)
+git clone (https://github.com/PanosKatsaras/react-news-app.git)
 Use code with caution.
 
 ## Install dependencies:
