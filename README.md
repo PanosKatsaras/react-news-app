@@ -4,7 +4,7 @@
 
 ### NewsMag App
 
-A React, Vite, Bootstrap application that fetches news by category using API.
+A React + Vite + Bootstrap application that fetches news by category using API.
 
 # Getting Started
 
