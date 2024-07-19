@@ -1,5 +1,7 @@
 # React + Vite + Bootstrap App
 
+![NewsMag](https://github.com/user-attachments/assets/341d924c-f2c2-4ea2-bd1d-d96e97aeaace)
+
 ### NewsMag App
 
 A React, Vite, Bootstrap application that fetches news using an API key.
