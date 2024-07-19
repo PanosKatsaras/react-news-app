@@ -8,3 +8,12 @@ nav a {
     border: none !important;
     outline: none !important;
 }
+
+.card {
+    border-radius: 15px;
+}
+
+.card img {
+    border-radius: 15px 15px 0 0;
+}
+
