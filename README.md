@@ -37,8 +37,6 @@ VITE_NEWS_API_KEY=your_api_key
 Bash:
 npm run dev
 
-Open http://localhost:5173 to view it in the browser.
-
 A minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
