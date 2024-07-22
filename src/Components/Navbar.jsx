@@ -1,4 +1,6 @@
-// Main Navbar with navigation through the categories
+// Main Navbar that takes a setCategory prop
+// This component is responsible for rendering navigation elements 
+// and updating the category state when a user selects a category
 const Navbar = ({setCategory}) => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">

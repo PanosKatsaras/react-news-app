@@ -1,7 +1,9 @@
 import { useEffect } from "react";
 import { useState } from "react"
 import NewsItem from "./NewsItem";
-//News component
+
+// News component that takes a category prop. 
+// This component is responsible for fetching and displaying news based on the provided category.
 const News = ({category}) => {
     // State to store the fetched news articles
     const [articles,setArticles] = useState([]);
@@ -15,7 +17,7 @@ const News = ({category}) => {
   return (
     // This section displays the latest news articles 
     // With the map function iterates over each news object in the articles array.
-    //Spreads the news object's properties as props to the NewsItem component, making them accessible as individual props
+    // Spreads the news object's properties as props to the NewsItem component, making them accessible as individual props
     <div>
         <h2 className="text-center mt-2">Latest <span className="badge bg-danger mt-2">News</span></h2>
         {articles.map((news,index)=>{
